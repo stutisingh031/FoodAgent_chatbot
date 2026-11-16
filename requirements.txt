@@ -1,0 +1,12 @@
+
+fastapi
+uvicorn[standard]
+sqlalchemy
+pymysql
+pydantic-settings
+python-dotenv
+langchain
+langchain-google-genai
+pytest
+PyJWT>=2.8,<3
+pwdlib[argon2]>=0.2,<1
